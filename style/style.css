@@ -1,0 +1,16 @@
+body{ 
+    margin: 70px;
+    padding: 50px;
+     /* background-color: rgba(0, 153, 255, 0.356); */
+     background-image: url("http://127.0.0.1:5500/img/bg.jpg.png");  
+
+}
+h1{
+    text-align: center;
+    color: azure;
+}
+#type{
+       border: 0.5px;
+       text-align: center;
+       color: antiquewhite;
+}
